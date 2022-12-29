@@ -1,0 +1,10 @@
+CMakeLists.txt
+/.idea/*
+/cmake-build-debug/.cmake
+/cmake-build-debug/CMakeFiles
+/cmake-build-debug/Testing
+/cmake-build-debug/.ninja_deps
+/cmake-build-debug/.ninja_log
+/cmake-build-debug/build.ninja
+cmake_install.cmake
+CMakeCache.txt
